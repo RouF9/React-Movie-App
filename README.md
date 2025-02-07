@@ -24,7 +24,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with React.js for the user interface, Appwrite for the Trending Movies Algorithm, and styled with TailwindCSS, Moodflix is a website project designed to help beginners get started with learning React.js. The platform offers a sleek and modern experience for browsing and discovering movies.
+Built with React.js for the user interface, Appwrite for the Trending Movies Algorithm, and styled with TailwindCSS. The platform offers a sleek and modern experience for browsing and discovering movies.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -61,8 +61,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/moodflix.git
-cd moodflix
+git clone https://github.com/RouF9/React-Movie-App.git
+cd React-Movie-App
 ```
 
 **Installation**
